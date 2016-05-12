@@ -10,7 +10,7 @@
   * Localization strings for the de_DE (German) locale.
   -->
 
-<locale name="en_US" full_name="German">
+<locale name="de_DE" full_name="German">
 
 	<message key="plugins.importexport.files.displayName">Dateiimport Plugin</message>
 	<message key="plugins.importexport.files.description">Dateiimport in den öffentlichen Ordner</message>
