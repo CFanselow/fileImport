@@ -75,8 +75,8 @@ Classes, plugins, external software
  
 Metrics
 --------
-- number of files 8
-- lines of code: 440
+- number of files 9
+- lines of code: 476
 
 Settings
 --------
